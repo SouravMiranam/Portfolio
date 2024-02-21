@@ -8,7 +8,6 @@ This is the HTML and CSS code for Sourav Miranam's personal portfolio website.
 - [Sections](#sections)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
